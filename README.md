@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm [yixiang yao]!
 
-<!--
-**Yaoyixiang666/Yaoyixiang666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I’m currently learning:
 
-Here are some ideas to get you started:
+- python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 I’m looking for:
+
+- something interesting
+
+## 📫 How to reach me:
+
+- 2540507435@qq.com
+- 5913123053@email.ncu.edu.cn
+
+## 🛠️ Languages and Tools:
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+
+## 📈 GitHub Stats:
+
+  
+
+## 🎉 Achievements:
+
+
+
+## 🌍 Find me on:
+
+
